@@ -1,5 +1,5 @@
-# Web Scraping: Houses' information
-This is a web scrapper that downloads houses' information available on the internet.
+# ProppiScraper: Houses' information
+This is a web scraping instrument that downloads houses' information available on the internet.
 
 ## Requirements
 1) Python 3
