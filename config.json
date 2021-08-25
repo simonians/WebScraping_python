@@ -1,0 +1,43 @@
+{
+ 	"scrap_lavoz":"True",
+    "scrap_meli": "False",
+    "scrap_zonaprop": "False",
+    "requests": {
+      "use_proxy": "False",
+      "max_attempts": 5,
+      "sleep_time": 0.5
+    },
+    "lavoz": {
+      "from_page": 15,
+      "pages": 75,
+      "result_filename": "lavoz",
+      "ids_filename": "lavoz",
+      "publisher_types": [
+        "inmobiliaria"
+      ]
+    },
+    "meli": {
+      "from_page": 1,
+      "pages": 20,
+      "result_filename": "meli",
+      "ids_filename": "meli",
+      "publisher_types": [
+        "inmobiliaria","dueno-directo"
+
+      ],
+      "operation_types": [
+        "venta"
+
+      ]
+    },
+    "zonaprop": {
+      "from_page": 1,
+      "pages": 1,
+      "result_filename": "zonaprop",
+      "ids_filename": "zonaprop",
+      "publisher_types": [
+        "dueno-directo"
+      ]
+    }
+}
+
