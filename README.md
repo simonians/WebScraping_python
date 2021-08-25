@@ -1,4 +1,4 @@
-# Proppi Scrapper
+# Web Scraping: Houses' information
 This is a web scrapper that downloads houses' information available on the internet.
 
 ## Requirements
